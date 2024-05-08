@@ -2,7 +2,7 @@ TU TELEFONO TIENE QUE ESTAR ROOTEADO
 
 Android V 1.0
 
-*Instalar Andronix APP, seguir los pasos del video subido en youtube:
+*Instalar Andronix APP, seguir los pasos del video subido en youtube: https://www.youtube.com/watch?v=Oo3Itw7YXcg
 
 *Instalar Termux *Instalar dependencia en modo consola :   
 
