@@ -21,6 +21,9 @@ Android V 1.0
 *Lanzamos comando ***env** Copiamos linea PATH=xxxxxxxxxxxxxxxxxxxx  en editor de texto y la modificamos para añadirla mas tarde al PATH de 
 modo root, la linea tiene que quedar algo así ***export PATH=$PATH:/xxx/xxxx/xxx/xx/xxxx/xxx/xx/ tienes que ser dos linea distintas como las instrucciones del video.
 
+export PATH=$PATH:/data/data/com.termux/files/usr/bin
+export PATH=$PATH:/data/data/com.termux/files/usr/bin/env
+
 *Nos logueamos como root con el comando ***su*** y añadimos las linea PATH comentadas anteriormente.
 
 Nos vamos al directorio de descargas del telefono donde previamente nos hemos descargado este repositorio, el directorio donde nos deja 
