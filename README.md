@@ -2,6 +2,12 @@ TU TELEFONO TIENE QUE ESTAR ROOTEADO
 
 Android V 1.0
 
+***ACTUALIZACIÓN***
+
+GOLDHEN ACTUALIZADO PARA VERSION 11.00, EL CARGADOR YA SE ENCUENTRA EN STAGE2 SOLO HAY QUE METER EL PAYLOAD AL USB Y EJECUTAR
+
+*******************
+
 *Instalar Andronix APP, seguir los pasos del video subido en youtube: https://www.youtube.com/watch?v=Oo3Itw7YXcg
 
 *Instalar Termux *Instalar dependencia en modo consola :   
