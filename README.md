@@ -37,7 +37,9 @@ Directorio de descarga : /storage/emulated/0/Download/
 
 Ejecutamos por fin el archivo ***python start_android.py***
                                                           -
+***Actualización*** 
 
+GOLDHEN2.4B V11.00 V10.00 V 10.01
 
 ***ACTUALIZACIÓN***
 -ACTUALIZADO STAGE2.BIN 11.00 LOADER STABLE
